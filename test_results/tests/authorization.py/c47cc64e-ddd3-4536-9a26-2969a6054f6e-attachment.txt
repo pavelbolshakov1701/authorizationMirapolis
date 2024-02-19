@@ -1,0 +1,5 @@
+get url https://lmslite47vr.demo.mirapolis.ru/mira/Do?doaction=Go&s=UkC8Ad9WvMzZPNBza2UF&id=0&type=customloginpage
+Input login
+Input password
+Button "ВОЙТИ" click
+Система отработала корректно. Введены невалидные данные, появление сообщения об ошибке, поля ввода логина и пароля окрашены в красный цвет. Смотри скриншот

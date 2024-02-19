@@ -1,0 +1,39 @@
+
+-----
+Test: tests/test_autohrization.py::test_authorization (call)
+Start time: 2024-02-18 22:08:13.172511
+Start name method: authorization
+
+End time: 2024-02-18 22:08:25.641322
+End name method: authorization
+URL: https://lmslite47vr.demo.mirapolis.ru/mira/#&s=xFrw3c7UPxb2QgcNUpYy&stype=nps&name=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&doaction=Go&id=0&type=myMeasureList
+
+-----
+
+-----
+Test: tests/test_autohrization.py::test_authorization_and_show_password (call)
+Start time: 2024-02-18 22:08:34.537081
+Start name method: authorization_and_show_password
+
+End time: 2024-02-18 22:08:50.345257
+End name method: authorization_and_show_password
+URL: https://lmslite47vr.demo.mirapolis.ru/mira/#&s=2TIR50323LvzgmPIAf8E&stype=nps&name=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&doaction=Go&id=0&type=myMeasureList
+
+-----
+
+-----
+Test: tests/test_autohrization.py::test_authorization_and_forgot_password (call)
+Start time: 2024-02-18 22:08:59.134685
+Start name method: authorization_and_forgot_password
+
+End time: 2024-02-18 22:09:06.135314
+End name method: authorization_and_forgot_password
+URL: https://lmslite47vr.demo.mirapolis.ru/mira//Do?doaction=Go&s=n9NCa3gm35Icah5buEfh&id=0&type=remindpassword
+
+-----
+
+-----
+Test: tests/test_autohrization.py::test_authorization_no_valid (call)
+Start time: 2024-02-18 22:09:14.641900
+Start name method: authorization_no_valid
+

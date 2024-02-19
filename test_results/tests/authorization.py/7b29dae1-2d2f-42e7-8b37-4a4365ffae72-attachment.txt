@@ -1,0 +1,7 @@
+get url https://lmslite47vr.demo.mirapolis.ru/mira/Do?doaction=Go&s=bNCXvMxBYCIPHRE7drXG&id=0&type=customloginpage
+Input login
+Input password
+Нажата кнопка показать пароль
+Button "ВОЙТИ" click
+Good value word
+Вход в систему успешен
